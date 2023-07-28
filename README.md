@@ -40,7 +40,7 @@ I am a Full Stack Developer 💻
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="CSharp" alt="CSharp" width="55" height="55"/>&nbsp;
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://th.bing.com/th/id/OIP.AlSjNZKaaF0Ts87vDSi6OgHaCJ?pid=ImgDet&rs=1" width="45" height="45">
-      <source media="(prefers-color-scheme: light)" srcset="https://th.bing.com/th/id/R.ed691b27969445d1d05797c82bff187f?rik=HCKLCCQhGH5P5g&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_338691.png&ehk=5gIwGeYi%2fp%2fZPMJYeK7X%2fDbPqxt5KsC9s%2fDP5XgF1gE%3d&risl=&pid=ImgRaw&r=0" width="45" height="45" >
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50" >
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png">
     </picture>
 </div>
