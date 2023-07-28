@@ -49,3 +49,9 @@ I am a Full Stack Developer 💻
   </picture>&nbsp;
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="CSharp" alt="CSharp" width="45" height="45"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quachthientai&theme=dark&background=000000)](https://git.io/streak-stats)
