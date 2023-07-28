@@ -38,4 +38,9 @@ I am a Full Stack Developer 💻
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="45" height="45"/>&nbsp;
   <img src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png#gh-dark-mode-only" title="CSharp" alt="CSharp" width="45" height="45"/>&nbsp;
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://th.bing.com/th/id/OIP.AlSjNZKaaF0Ts87vDSi6OgHaCJ?pid=ImgDet&rs=1" width="45" height="45">
+      <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" width="45" height="45" >
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png">
+    </picture>
 </div>
