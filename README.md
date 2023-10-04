@@ -53,5 +53,4 @@ I am a Full Stack Developer 💻
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quachthientai&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quachthientai&theme=nord_dark)
