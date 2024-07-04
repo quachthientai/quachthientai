@@ -21,8 +21,6 @@
 ### 👨🏻‍💻 About Me :
 I am a Full Stack Developer 💻
 
-- :telescope: I’m working as a System Engineer and contributing to building Project Management System for energy clients at Omega365 USA
-
 - :seedling: I'm currently working on something cool!
 
 - 🐶 Pets are my best friends!
