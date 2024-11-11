@@ -47,6 +47,7 @@ I am a Full Stack Developer 💻
   </picture>&nbsp;
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="CSharp" alt="CSharp" width="45" height="45"/>&nbsp;
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="45" height="45/>&nbsp;
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45/>&nbsp;
 </div>
 
 ---
